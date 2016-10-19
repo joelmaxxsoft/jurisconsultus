@@ -4,3 +4,4 @@
 inst/doc
 vignettes/rsconnect/*
 data-raw/*
+data/*
